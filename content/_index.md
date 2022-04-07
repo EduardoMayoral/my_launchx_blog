@@ -9,8 +9,11 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectativas durante este viaje son:
 
--Mejorar mis habilidades en Git y Github <br>
--Aplicar mis conocimientos de Frontend <br>
--Aprender cosas sobre el backend <br>
--Compartir con personas que lo necesiten o se interesen por el tema :D
+-Mejorar mis habilidades en Git y Github.
+
+-Aplicar mis conocimientos de Frontend. 
+
+-Aprender cosas sobre el backend.
+
+-Compartir con personas que lo necesiten o se interesen por el tema. :D
 🚀
